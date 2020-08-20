@@ -1,5 +1,4 @@
 import { Request, Response } from 'express';
-
 import { container } from 'tsyringe';
 
 import CreateAppointmentService from '@modules/appointments/services/CreateAppointmentService';
